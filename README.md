@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo PCB Lite
+
+**Embryo PCB Lite** is Embryo-Zero's fork of [LibrePCB](https://github.com/LibrePCB/LibrePCB), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # LibrePCB
 
 [![Become a Patron](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://www.patreon.com/librepcb)
